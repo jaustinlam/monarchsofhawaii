@@ -2,10 +2,14 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 }
-
+/*Classes*/
+.active{
+	color: red;
+	
+}
 /*ID's*/
 #sideBar, #map{
-	height: 100vh;
+	height: 90vh;
 }
 #title{
 	font-family: 'Princess Sofia', cursive;
